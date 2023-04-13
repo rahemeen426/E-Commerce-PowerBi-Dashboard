@@ -36,8 +36,10 @@ This dashboard can provide the following benefits to the company:
 
 
 
-## 🔗 Links
+## 🔗 Linkedin
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahemeen-khan-94841a111/)
 
+## Support
 
+For support, email rahemeen426@gmail.com or visit Linkedin Profile.
 
