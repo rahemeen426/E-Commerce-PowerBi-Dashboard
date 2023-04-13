@@ -24,8 +24,8 @@ This dashboard can provide the following benefits to the company:
 6. Tracks profit trends over time and identifies the most profitable months.
 
 ## Screenshots
-
-![App Screenshot](hhttps://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screen%20Shots/1.jpg)
+![App Screenshot](https://github.com/rahemeen426/Excel-Dashboards/blob/main/Vrinda.JPG)
+![App Screenshot](hhttps://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/ScreenShots/1.JPG)
 
 ![App Screenshot](hhttps://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screen%20Shots/2.jpg)
 
