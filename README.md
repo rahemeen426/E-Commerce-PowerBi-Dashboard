@@ -25,10 +25,10 @@ This dashboard can provide the following benefits to the company:
 
 ## Screenshots
 
-![App Screenshot](hhttps://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screen%20Shots/1.JPG)
+![App Screenshot](hhttps://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screen%20Shots/1.jpg)
 
-![App Screenshot](hhttps://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screen%20Shots/2.JPG)
+![App Screenshot](hhttps://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screen%20Shots/2.jpg)
 
-![App Screenshot](hhttps://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screen%20Shots/3.JPG)
+![App Screenshot](hhttps://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screen%20Shots/3.jpg)
 
-![App Screenshot](hhttps://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screen%20Shots/4.JPG)
+![App Screenshot](hhttps://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screen%20Shots/4.jpg)
