@@ -27,4 +27,17 @@ This dashboard can provide the following benefits to the company:
 
 ![App Screenshot](https://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screenshots/1.JPG)
 
+![App Screenshot](https://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screenshots/2.JPG)
+
+![App Screenshot](https://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screenshots/3.JPG)
+
+![App Screenshot](https://github.com/rahemeen426/E-Commerce-PowerBi-Dashboard/blob/main/Screenshots/4.JPG)
+
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahemeen-khan-94841a111/)
+
+
 
